@@ -55,10 +55,7 @@ public class LinkedList {
     public void deleteFirst() {
         if (first == null)
             throw new NoSuchElementException();
-        if (first == null) {
-            first = last = null;
-            return;
-        }
+        
         var second = first.next; // [1 -> 2 -> 3]
         first = null; // [1  2 -> 3]
         first = second;
