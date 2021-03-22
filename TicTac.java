@@ -1,6 +1,4 @@
-//Name: Sribhuvan Reddy Yellu
-//Date: 02/12/2021
-//Title: Tic Tac Toe
+
 
 // This program allows a two users to play the tic tac toe game.
 
