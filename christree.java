@@ -1,8 +1,5 @@
 package com.company;
-// Name: Sribhuvan Reddy Yellu
-// Panther id: 002545292
-// Date: 01/20/2020
-// Title: christree
+
 
 // This program prints a christmas tree taking the number of segemnts and the height from the user.
 
