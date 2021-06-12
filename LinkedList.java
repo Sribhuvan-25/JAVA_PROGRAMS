@@ -44,7 +44,6 @@ public class LinkedList {
             current = current.next;
             index++;
         }
-        size++;
         return -1;
     }
 
