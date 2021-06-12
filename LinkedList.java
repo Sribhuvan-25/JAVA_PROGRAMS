@@ -68,7 +68,7 @@ public class LinkedList {
             first = last = null;
             return;
         }
-        var previous = gprevious(last);  // [(previous)-> 2 ]
+        var previous = previous(last);  // [(previous)-> 2 ]
         last = previous;
         last.next = null;
         size--;
